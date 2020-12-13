@@ -5,8 +5,18 @@ name = "cmdln_parser"
 version = "0.1.0"
 
 [[package]]
-name = "text_finder"
+name = "dir_nav"
+version = "0.1.0"
+
+[[package]]
+name = "executive"
 version = "0.1.0"
 dependencies = [
  "cmdln_parser",
+ "dir_nav",
+ "file_anal",
 ]
+
+[[package]]
+name = "file_anal"
+version = "0.1.0"

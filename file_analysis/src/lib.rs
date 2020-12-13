@@ -44,9 +44,11 @@ impl FileAnal {
             let mut line = String::new();
             let rslt = buf_rdr.read_line(&mut line);
             self.line_count += 1;
+
             if rslt.is_err() { break; }
             let len = rslt.unwrap();
             if len == 0 { break; }
+            
             if line.contains("fn ") {
                 self.fn_count += 1;
             }

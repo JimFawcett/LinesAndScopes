@@ -118,6 +118,7 @@ impl<App: DirEvent + Default> DirNav<App> {
     pub fn visit(&mut self, dir: &Path) -> io::Result<()>
     where App: DirEvent
     {
+        // print!("\n  dir: {:?}", dir);
         self.num_dir += 1;
         let dir_name: String = 
           self.replace_sep(dir).to_string_lossy().to_string();
