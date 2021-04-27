@@ -1,0 +1,111 @@
+
+
+  LinesAndScopes: ver 1.0
+ --------------------------
+  Options parsed from cmdln: char:Vec<String>):;
+    P:["c:/su/temp/RustCommExperiments-ForAnal"]
+    p:["rs", "h", "cpp"]
+
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_blocking_queue/examples
+    test1.rs
+    lines:     68
+    functions: 2
+    scopes:    13
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_blocking_queue/src
+    lib.rs
+    lines:     89
+    functions: 8
+    scopes:    15
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_comm/examples
+    test1.rs
+    lines:     83
+    functions: 1
+    scopes:    11
+    test2.rs
+    lines:     89
+    functions: 2
+    scopes:    12
+    test3.rs
+    lines:     227
+    functions: 6
+    scopes:    31
+    test4.rs
+    lines:     216
+    functions: 5
+    scopes:    37
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_comm/src
+    lib.rs
+    lines:     302
+    functions: 13
+    scopes:    51
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_comm_logger/src
+    lib.rs
+    lines:     42
+    functions: 4
+    scopes:    12
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_comm_processing/examples
+    test1.rs
+    lines:     87
+    functions: 4
+    scopes:    14
+    test2.rs
+    lines:     101
+    functions: 4
+    scopes:    16
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_comm_processing/src
+    lib.rs
+    lines:     158
+    functions: 7
+    scopes:    21
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_debug/examples
+    test1.rs
+    lines:     19
+    functions: 2
+    scopes:    4
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_debug/src
+    lib.rs
+    lines:     28
+    functions: 3
+    scopes:    5
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_message/examples
+    test1.rs
+    lines:     85
+    functions: 1
+    scopes:    18
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_message/src
+    lib.rs
+    lines:     236
+    functions: 29
+    scopes:    51
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_thread_pool/examples
+    test1.rs
+    lines:     110
+    functions: 4
+    scopes:    22
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_thread_pool/src
+    lib.rs
+    lines:     116
+    functions: 6
+    scopes:    16
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_timer/examples
+    test1.rs
+    lines:     27
+    functions: 1
+    scopes:    5
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_timer/src
+    lib.rs
+    lines:     153
+    functions: 16
+    scopes:    38
+  c:/su/temp/RustCommExperiments-ForAnal/RustComm_VariableSizeMsg/rust_traits/src
+    lib.rs
+    lines:     77
+    functions: 28
+    scopes:    10
+
+  Total lines:     2313
+  Total functions: 146
+  Total scopes:    402
+
+  That's all Folks
+

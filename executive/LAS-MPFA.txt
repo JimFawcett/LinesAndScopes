@@ -1,0 +1,154 @@
+
+  LinesAndScopes: ver 1.0
+ --------------------------
+  Options parsed from cmdln: char:Vec<String>):;
+    P:["c:/su/temp/MPL-ForAnal"]
+    p:["h", "cpp"]
+
+  c:/su/temp/MPL-ForAnal/include
+    ClientHandler.h
+    lines:     217
+    functions: 30
+    scopes:    22
+    Cpp11-BlockingQueue.h
+    lines:     182
+    functions: 10
+    scopes:    12
+    EndPoint.h
+    lines:     85
+    functions: 15
+    scopes:    6
+    Logger.h
+    lines:     82
+    functions: 17
+    scopes:    9
+    Message.h
+    lines:     377
+    functions: 39
+    scopes:    51
+    mpl.h
+    lines:     23
+    functions: 0
+    scopes:    0
+    Platform.h
+    lines:     150
+    functions: 11
+    scopes:    14
+    ReceiverExceptions.h
+    lines:     161
+    functions: 19
+    scopes:    37
+    SenderExceptions.h
+    lines:     76
+    functions: 7
+    scopes:    13
+    StopWatch.h
+    lines:     54
+    functions: 4
+    scopes:    6
+    Task.h
+    lines:     68
+    functions: 7
+    scopes:    6
+    TCPConnector.h
+    lines:     223
+    functions: 35
+    scopes:    19
+    TCPResponder.h
+    lines:     142
+    functions: 19
+    scopes:    11
+    TCPSocket.h
+    lines:     136
+    functions: 28
+    scopes:    15
+    TCPSocketExceptions.h
+    lines:     69
+    functions: 7
+    scopes:    11
+    ThreadPool.h
+    lines:     140
+    functions: 7
+    scopes:    11
+    Utilities.h
+    lines:     113
+    functions: 11
+    scopes:    6
+  c:/su/temp/MPL-ForAnal/MPLPerformanceTests/src
+    PerformanceConnector.cpp
+    lines:     91
+    functions: 0
+    scopes:    6
+    PerformanceResponder.cpp
+    lines:     124
+    functions: 0
+    scopes:    10
+    PerfTestCombinedFixedSizeMsg.cpp
+    lines:     249
+    functions: 0
+    scopes:    19
+    PerfTestCombinedVariableSizeMsg.cpp
+    lines:     267
+    functions: 0
+    scopes:    20
+  c:/su/temp/MPL-ForAnal/src
+    ClientHandler.cpp
+    lines:     214
+    functions: 0
+    scopes:    36
+    Cpp11-BlockingQueue.cpp
+    lines:     115
+    functions: 0
+    scopes:    11
+    EndPoint.cpp
+    lines:     182
+    functions: 0
+    scopes:    18
+    Logger.cpp
+    lines:     120
+    functions: 0
+    scopes:    13
+    Message.cpp
+    lines:     137
+    functions: 0
+    scopes:    6
+    Platform.cpp
+    lines:     22
+    functions: 0
+    scopes:    1
+    Task.cpp
+    lines:     57
+    functions: 0
+    scopes:    4
+    TCPConnector.cpp
+    lines:     408
+    functions: 0
+    scopes:    57
+    TCPResponder.cpp
+    lines:     269
+    functions: 0
+    scopes:    32
+    TCPSocket.cpp
+    lines:     366
+    functions: 0
+    scopes:    42
+    ThreadPool.cpp
+    lines:     48
+    functions: 0
+    scopes:    3
+    Utilities.cpp
+    lines:     134
+    functions: 0
+    scopes:    13
+  c:/su/temp/MPL-ForAnal/unit_tests
+    Message_unit_test.cpp
+    lines:     52
+    functions: 0
+    scopes:    4
+
+  Total lines:     5153
+  Total functions: 266
+  Total scopes:    544
+
+  That's all Folks
+
